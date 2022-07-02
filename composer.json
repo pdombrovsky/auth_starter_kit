@@ -1,5 +1,7 @@
 {
     "require": {
+        "php": ">=7.4",
+        "ext-phalcon": "~4.1.0",
         "firebase/php-jwt": "~6.2.0",
         "league/fractal": "~0.20.1"
     }
